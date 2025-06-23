@@ -5,6 +5,8 @@
   overflow: hidden;
   padding-right: calc(50% - 600px);
   padding-left: calc(50% - 600px);
+  display: -webkit-box;
+  display: -ms-flexbox;
   }
 
 .main {
